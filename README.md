@@ -8,4 +8,6 @@ Link the code voice over Video presentation of Machine learning Assignment #1 : 
 
 
 Assignment-2(In class exercise) added to the main branch.
+File name : ICP_assignment2.ipynb
+Video explaination link: https://drive.google.com/file/d/1pQpIdAvMKPJbL-Yh6anvPHiSEUEBiUxq/view?usp=sharing
 
