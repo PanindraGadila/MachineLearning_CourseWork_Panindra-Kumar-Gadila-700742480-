@@ -11,3 +11,9 @@ Assignment-2(In class exercise) added to the main branch.
 File name : ICP_assignment2.ipynb
 Video explaination link: https://drive.google.com/file/d/1pQpIdAvMKPJbL-Yh6anvPHiSEUEBiUxq/view?usp=sharing
 
+
+
+Assignment-3(In class exercise) added to the main branch.
+File name : ICP_assignment3.ipynb
+Video explaination link: https://drive.google.com/file/d/1j1Gt_tZMCKgoGROUWFeUVAJx7zjYs9kg/view?usp=sharing
+
