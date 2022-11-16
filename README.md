@@ -28,3 +28,12 @@ Video explaination link: https://drive.google.com/file/d/1LfvzrVbsGHtxSfKlrj8SMB
 Assignment-5(In class exercise) added to the main branch.
 File name : ICP_assignment5.ipynb
 Video explaination link: https://drive.google.com/file/d/1re-aXUHmg_9LcS_Cu1IFtK3WZKJudeXV/view?usp=sharing
+
+
+
+Assignment-6(In class exercise) added to the main branch.
+File name : ICP_assignment6.ipynb
+Video explaination link: https://drive.google.com/file/d/1v0Ky2CzyYhvftYcOwB1OSsvAhXpRKi8a/view?usp=sharing
+
+
+
